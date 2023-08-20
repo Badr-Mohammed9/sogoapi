@@ -142,5 +142,5 @@ REST_FRAMEWORK = {
     ],
 }
 
-STATICFILES_DIRS = [BASE_DIR / "static"] # new
+STATICFILES_DIRS = [BASE_DIR / "static/"] # new
 STATIC_ROOT = BASE_DIR / "staticfiles" # new
